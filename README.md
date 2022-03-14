@@ -1,7 +1,3 @@
-
-
-# Project 1 : Analyzing Netflix Top 10 Lists Country-Wise & Globally
-
 This is an exploratory analysis which involved importing two different Excel files onto SQL and conducting exploratory analyses based on the data.
 
 ## Concepts Covered
